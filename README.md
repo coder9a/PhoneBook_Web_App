@@ -13,3 +13,8 @@ Likewise, for deleting a record, you have to click on the delete button after lo
 
 The application connects to a MySQL database that holds users record. Such as their names, phone numbers, email address etc.
 Design of this project is very simple so that the user won’t find any difficulties while working on it. To run this project you must have installed Eclipse IDE and virtual server i.e Apache Tomcat on your PC. 
+
+# Screenshots
+![home](https://user-images.githubusercontent.com/42884781/123322553-13bb2b00-d552-11eb-9440-75bc8e3322aa.png)
+![login](https://user-images.githubusercontent.com/42884781/123322586-1a49a280-d552-11eb-9f17-aa2b3c7677d9.png)
+![signup](https://user-images.githubusercontent.com/42884781/123322597-1e75c000-d552-11eb-97cd-b1e37fd50197.png)
